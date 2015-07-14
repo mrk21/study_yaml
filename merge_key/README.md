@@ -1,6 +1,6 @@
 # merge key
 
-The YAML merge key is not core specification of YAML language. This is implemented by YAML tags specified by [yaml.org](http://yaml.org/).
+YAML merge key is not a core function of YAML format. This is implemented by YAML tags stipulated by [yaml.org](http://yaml.org/type/merge.html).
 
 ## See
 
