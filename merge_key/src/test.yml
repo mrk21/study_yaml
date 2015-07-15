@@ -1,5 +1,7 @@
 ---
+default: &default
+  value1: 1
+
 key1:
-  <<:
-    value1: 1
+  <<: *default
   value2: 2
