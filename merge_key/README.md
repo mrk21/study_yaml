@@ -6,6 +6,7 @@ YAML merge key is not a core function of YAML format. This is implemented by YAM
 
 1. Run `./rocksfile` command
 1. Run `sudo pcel install yaml` command
+1. Run `npm install js-yaml` command
 
 ## See
 
