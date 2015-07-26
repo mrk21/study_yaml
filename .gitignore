@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+# Java
+*.class
+
+# vendor
+/vendor/*
+!/vendor/.keep
