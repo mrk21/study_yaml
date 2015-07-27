@@ -2,6 +2,6 @@
 default: &default
   value1: 1
 
-key1:
+target:
   <<: *default
   value2: 2

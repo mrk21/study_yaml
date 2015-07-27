@@ -22,3 +22,7 @@ $ ./bin/javae path/to/source.java
 **PHP**
 
 * [php-yaml: YAML-1.1 parser and emitter PECL package](http://bd808.com/pecl-file_formats-yaml/)
+
+**Lua**
+
+* [Lua beginner: Table dump to console - Stack Overflow](http://stackoverflow.com/questions/9168058/lua-beginner-table-dump-to-console)
