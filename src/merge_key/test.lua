@@ -10,11 +10,11 @@ end
 
 -- # test-alias.yml
 -- {
---   default = <1>{
+--   default = {
 --     value1 = 1
 --   },
 --   target = {
---     ["<<"] = <table 1>,
+--     value1 = 1,
 --     value2 = 2
 --   }
 -- }
@@ -22,9 +22,7 @@ end
 -- # test-literal.yml
 -- {
 --   target = {
---     ["<<"] = {
---       value1 = 1
---     },
+--     value1 = 1,
 --     value2 = 2
 --   }
 -- }
@@ -32,9 +30,7 @@ end
 -- # test-inline-literal.yml
 -- {
 --   target = {
---     ["<<"] = {
---       value1 = 1
---     },
+--     value1 = 1,
 --     value2 = 2
 --   }
 -- }

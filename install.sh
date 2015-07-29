@@ -2,7 +2,7 @@
 cd $(dirname $0)
 
 # Lua
-luarocks install  lyaml    5.1.4-1
+luarocks install  lyaml    6.0-1
 luarocks install  inspect  3.0-1
 
 # JavaScript(Node.js)
